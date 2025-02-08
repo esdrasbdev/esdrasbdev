@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- Front-end Developer<br>- 18y</p>
+<h3 align="center">- Front-end Developer<br>- IT Technician</h3>
 
 ###
 
