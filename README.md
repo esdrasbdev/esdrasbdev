@@ -3,10 +3,6 @@
 <h1 align="center">🌟 Hi, I'm Esdras!</h1>
 <h3 align="center">Front-end Developer • IT Technician • Tech Enthusiast</h3>
 
-<div align="center">
-  <img src="https://i.imgur.com/qZQZ4xG.gif" width="250" alt="animated programmer" />
-</div>
-
 ---
 
 <!-- ========================= TECH STACK ========================= -->
@@ -94,12 +90,3 @@
 
 ---
 
-<!-- ========================= MASCOT ========================= -->
-
-## 🧑‍💻 Animated Mascot
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigorgtic/assets/main/code-typing-animation.svg" width="300" />
-</div>
-
----
