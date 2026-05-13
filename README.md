@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center">🌟 Hi, I'm Esdras!</h1>
-<h3 align="center">Front-end Developer • IT Technician • Tech Enthusiast</h3>
+<h3 align="center">Fullstack Developer • IT Technician • Tech Enthusiast</h3>
 
 ---
 
