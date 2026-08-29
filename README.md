@@ -51,26 +51,6 @@
 
 ---
 
-<!-- ========================= GITHUB STATS ========================= -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=esdrasbdev&show_icons=true&theme=nord&hide_border=false" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=esdrasbdev&layout=compact&theme=nord&hide_border=false" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=esdrasbdev&theme=nord&radius=16&area=true" />
-
-</div>
-
----
-
 <!-- ========================= SOCIAL ========================= -->
 
 ## 📫 Social Media
